@@ -1,6 +1,10 @@
 # web_scraper_pro
+this is a script tha extract all the news of newspapers pages (eluniversal.mx and elpais.com) and storega the all the information in a database with SQL.
+
 This is my first project of webscraping,  implementing automation scripts for  ETL pipeline (Extract, Transform, Load), and using the Page Object Pattern 
 through config.yaml file, in order to get a scraper capable work it on any newspaper page, with few code edits. The whole project was built with python 3.8 and for now,is able to run in a linux terminal, for Windows, you can use  [Cmder](https://cmder.net/) to emulate a bash console
+
+
 
 ## Content
 This project has one branch at the moment, this contains the file 'requirements.txt' which contains all the package/librarys used, (i suggest use anconda or miniconda enviroment for execute this script), and main folder 'web_scraper' with the followoing estructure
